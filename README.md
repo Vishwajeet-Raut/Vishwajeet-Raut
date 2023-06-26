@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)]
+C:\Users\vishw\Desktop\Linkedin_banners\data_to_confess_insights_cleanup.png
 <h1 align="center">Hi 👋, I'm Vishwajeet Raut</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
